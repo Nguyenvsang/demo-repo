@@ -5,3 +5,6 @@
 Write description here
 ### Xin chào
 Chúc một ngày tốt lành!
+
+## Local Development
+1. Open index.html in your browser
